@@ -1,0 +1,56 @@
+# ---- Folder yang dibuat ulang otomatis oleh Unity ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Folder debug Burst hasil build
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# ---- File IDE / solusi (dibuat ulang oleh Unity) ----
+.vs/
+.vscode/
+.idea/
+.utmp/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ---- Hasil build ----
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-buildid.txt
+sysinfo.txt
+
+# ---- Python (skrip analisis) ----
+__pycache__/
+*.pyc
+.venv/
+
+# ---- Sistem operasi ----
+.DS_Store
+Thumbs.db
+desktop.ini
