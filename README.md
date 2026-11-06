@@ -4,7 +4,7 @@ Proyek Unity **asli** tempat data penelitian dihasilkan (uji pendahuluan 1 Novem
 Repositori ini disimpan sebagai arsip apa adanya agar kondisi saat pengujian dapat ditelusuri.
 
 > Untuk memakai, mempelajari, atau menjalankan ulang penelitian, gunakan repositori utama
-> **DOTS-vs-MONO-Gesture-Quest3S**. Isinya sama untuk bagian penelitian, tetapi sudah dibersihkan dari aset template
+> **[DOTS-vs-MONO-Gesture-Quest3S](https://github.com/ameenul/DOTS-vs-MONO-Gesture-Quest3S)**. Isinya sama untuk bagian penelitian, tetapi sudah dibersihkan dari aset template
 > dan dilengkapi panduan.
 
 ## Isi
